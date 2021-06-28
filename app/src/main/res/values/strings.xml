@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FredPacker S</string>
+
+    <string name="jetonMaj">JETON</string>
+    <string name="jeton">Jeton</string>
+    <string name="projetMaj">PROJET</string>
+    <string name="projet">Projet</string>
+    <string name="associationMaj">ASSOCIATION</string>
+    <string name="association">Association</string>
+    <string name="choisissez">Choisissez</string>
+
+    <string name="iphone">Iphone</string>
+    <string name="android">Telephone android</string>
+    <string name="camera">Appareil photo</string>
+    <string name="webcam">Webcam</string>
+    <string name="vr">Casque   VR</string>
+    <string name="keyboard">Clavier</string>
+
+    <string name="numAssociation">Numeros d Association Choisi :</string>
+    <string name="numProjet">Numeros de Projet Choisi :</string>
+    <string name="validez">Validez</string>
+
+    <string name="errorRemplir">Veillez remplir</string>
+
+</resources>

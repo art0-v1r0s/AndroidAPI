@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/greenFred"
+    android:padding="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/choisissez"
+        android:textColor="?attr/colorOnPrimary"
+        android:textSize="22sp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="@string/jetonMaj"
+        android:id="@+id/jeton"
+        android:layout_gravity="center"
+        android:drawableTint="?attr/colorOnPrimary"
+        android:drawableLeft="@drawable/ic_coin"
+        android:drawableRight="@drawable/ic_coin"
+        android:background="@drawable/shape_button"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="@string/projetMaj"
+        android:id="@+id/projet"
+        android:layout_gravity="center"
+        android:drawableLeft="@drawable/ic_projet"
+        android:drawableRight="@drawable/ic_projet"
+        android:drawableTint="?attr/colorOnPrimary"
+        android:background="@drawable/shape_button"
+        android:layout_marginBottom="10dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="@string/associationMaj"
+        android:id="@+id/association"
+        android:layout_gravity="center"
+        android:drawableTint="?attr/colorOnPrimary"
+        android:drawableLeft="@drawable/ic_association"
+        android:drawableRight="@drawable/ic_association"
+        android:background="@drawable/shape_button"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>

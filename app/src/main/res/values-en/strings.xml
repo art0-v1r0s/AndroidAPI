@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PA</string>
+    <string name="jetonMaj">JETON</string>
+    <string name="jeton">Jeton</string>
+    <string name="projetMaj">PROJECT</string>
+    <string name="projet">Project</string>
+    <string name="associationMaj">ASSOCIATION</string>
+    <string name="association">Association</string>
+    <string name="choisissez">Choose</string>
+
+    <string name="iphone">Iphone</string>
+    <string name="android">Android Phone</string>
+    <string name="camera">Camera</string>
+    <string name="webcam">Webcam</string>
+    <string name="vr">Virtual Reality Headset</string>
+    <string name="keyboard">Keyboards</string>
+
+    <string name="numAssociation">Chosen Association number :</string>
+    <string name="numProjet">Chosen Project number :</string>
+    <string name="validez">validate</string>
+
+    <string name="errorRemplir">Please fill out</string>
+
+</resources>
